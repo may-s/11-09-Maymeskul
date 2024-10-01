@@ -1,0 +1,23 @@
+.first-title {
+    size: 20px;
+    text-transform: uppercase;
+}
+.main-title {
+    size: 40px;
+    text-transform: uppercase;
+}
+.center {
+    text-align: center;
+}
+.left-side {
+    text-align: left;
+}
+.right-side {
+    text-align: right;
+}
+.sub-title {
+    size: 32px;
+}
+p {
+    size: 16px;
+}
